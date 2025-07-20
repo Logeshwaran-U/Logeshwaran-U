@@ -54,135 +54,28 @@
 
 # 📚 Library Management System
 
-A desktop-based application to manage books, members, and issue/return records using a user-friendly **Tkinter GUI** with a **MySQL** backend.
+The Library Management System is a desktop-based application developed using Python and Tkinter, with MySQL as the backend database. It allows users to perform full CRUD operations on books and member records, manage book issuance and returns, and automatically calculate fines for overdue returns. The system includes a secure admin login, a responsive interface for smooth navigation, and supports real-time database updates to ensure accurate record-keeping for small to medium-sized libraries.
 
 🔗 [Explore the Code](https://github.com/Logeshwaran-U/tkinter_library)
 
 ---
 
-## 🛠 Tech Stack
-
-- **Python** – Tkinter for GUI
-- **MySQL** – for persistent relational data storage
-
----
-
-## 🚀 Features
-
-- **🔍 Search Functionality**  
-  Quickly locate books or members using keyword-based search
-
-- **➕ Add / ✏️ Edit / 🗑️ Delete Records**  
-  Manage book and member data with simple form controls
-
-- **📚 Issue & Return System**  
-  Track book lending history and enforce return policies
-
-- **💰 Fine Calculation**  
-  Automatically compute fines for overdue books
-
-- **📦 Real-Time Data Sync**  
-  All actions are instantly reflected in the MySQL database
-
-- **🖥️ User-Friendly Interface**  
-  Clean layout with intuitive navigation built in Tkinter
-
-- **🔐 Admin Access Control**  
-  Critical operations protected by a secure admin password
-
----
-
 # 🎥 Dynamic Video Quality Management Ensuring QoS
 
-A real-time adaptive video streaming system that dynamically adjusts video quality to maintain optimal **Quality of Service (QoS)** based on network conditions.
+The Dynamic Video Quality Management System is a real-time video streaming application built using Python, GStreamer, and OpenCV, designed to maintain optimal Quality of Service (QoS). It streams multiple video files over RTSP, supports both static and dynamic bitrate modes, and dynamically adjusts video quality based on real-time latency and jitter analysis. The system also generates visual performance metrics such as latency graphs, jitter timelines, and bar charts to compare streaming behavior under different network conditions. 
 
 🔗 [Explore the Code](https://github.com/Logeshwaran-U/adaptive-rtsp-streaming-qos)
 
 ---
 
-## 🔍 Project Overview
-
-This project aims to ensure smooth and high-quality video playback even in unstable network environments by dynamically adjusting bitrate and resolution. It uses real-time monitoring and feedback to adapt video quality, making it ideal for 🎦 streaming, 🔐 surveillance, and 💬 real-time communication.
-
----
-
-## 🛠 Tech Stack
-
-- 🐍 **Python 3.x**
-- 🎞️ **OpenCV** – Video handling and processing
-- 🔁 **GStreamer + GstRtspServer** – Real-time streaming and RTSP support
-- 🧮 **NumPy** – Data handling for performance metrics
-- 📊 **Matplotlib** – Visualizing QoS data like latency and jitter
-
----
-
-## 🚀 Features
-
-- 🔁 **Dynamic Bitrate Adjustment**  
-  Adapts the video bitrate based on network latency to maintain smooth streaming
-
-- ⏱️ **Latency & ⚖️ Jitter Tracking**  
-  Continuously monitors latency and jitter during playback
-
-- 📺 **Static vs Dynamic Mode**  
-  Compares performance of fixed and adaptive video quality settings
-
-- 📈 **Graphical Analysis**  
-  Generates latency/jitter plots and bar charts for technical insights
-
-- 🎥 **Multi-Stream Support**  
-  Streams multiple videos concurrently with independent configurations
-
-- 💾 **Offline Playback Compatible**  
-  Works with local video files; streamable using VLC or similar RTSP clients
-
----
-
 # 🧑‍💼 Employee Management System – SITHM Department
 
-A web-based CRUD application built using **Django**, designed to efficiently manage **departments**, **job positions**, and **employee records** for the **SITHM department**. It features a clean UI and structured backend logic using Django's `ModelForm` system.
+An employee management system developed using Django that allows users to create, update, view, and delete records for departments, job positions, and employees. The application features a clean, responsive interface and uses Django’s ModelForm architecture for efficient data handling and form validation. Ideal for organizations needing a lightweight, web-based HR tool
 
 🔗 [Explore the Code ](https://github.com/Logeshwaran-U/Employee_management_system)
 
 ---
 
-## 🔧 Tech Stack
-
-- 🐍 **Backend**: Django (Python)
-- 🎨 **Frontend**: HTML, Bootstrap (assumed)
-- 🗄️ **Database**: SQLite (default) or MySQL (configurable)
-- 📝 **Form Handling**: Django ModelForms
-- 🌐 **Templating**: Django Templates Engine
-
----
-
-## 🚀 Features
-
-### 📊 Dashboard Overview
-- Real-time stats on:
-  - 🏢 Departments  
-  - 💼 Positions  
-  - 👥 Employees  
-
-### 🏢 Department Management
-- ✅ Add new departments  
-- ✏️ Edit existing department details  
-- ❌ Delete department entries  
-- 📋 View all departments  
-
-### 💼 Position Management
-- ✅ Add job positions  
-- ✏️ Update existing positions  
-- ❌ Remove position records  
-- 📋 View full position list  
-
-### 👥 Employee Management
-- ✅ Register new employees  
-- ✏️ Modify employee data  
-- ❌ Delete employee records  
-- 📋 List all employees with related department & role
-
----
 
 ## 📈 GitHub Activity
 

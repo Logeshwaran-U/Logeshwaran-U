@@ -17,7 +17,6 @@
 ---
 
 ## 🔧 Tech Stack
-
 <div align="center">
 
 <table>
@@ -43,6 +42,16 @@
   <img src="https://skillicons.dev/icons?i=git,github,vscode" /><br>
 </td>
 </tr>
+
+<tr>
+<td align="center" colspan="5">
+  <b>Libraries</b><br><br>
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white" />
+</td>
+</tr>
+
 </table>
 
 </div>

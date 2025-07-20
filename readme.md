@@ -1,19 +1,18 @@
 <!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm Logeshwaran-U</h1>
-<h3 align="center">🚀 Full-Stack Python Developer | 💡 AI/ML Enthusiast | 🎓 Computer Science Student</h3>
+<h3 align="center">🚀 Full-Stack Python Developer | 💡 AI/ML Enthusiast | 🧠 Passionate Problem Solver</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=500&lines=Code.+Build.+Repeat.;Lover+of+logic+%26+clean+designs.;Always+learning+something+new."/>
 </p>
 
 ---
-
 ## 🧑‍💻 About Me
 
-- 🎓 Final year CS student passionate about real-world problem-solving through code  
-- 👨‍💻 Currently diving deeper into **AI/ML**, **backend design**, and **smart system development**  
-- 🌐 Love building from scratch — from database to frontend  
-- 📚 Learning through NPTEL, projects, and collaborative dev  
+- 🎓 Final year Computer Science student passionate about solving real-world problems through code  
+- 👨‍💻 Focused on **backend development**, **AI/ML fundamentals**, and building practical systems  
+- 🌐 Enjoy creating complete solutions — from database models to clean UIs  
+- 🔎 Continuously learning through hands-on projects, documentation, and self-study
 
 ---
 

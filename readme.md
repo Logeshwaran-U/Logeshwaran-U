@@ -76,7 +76,7 @@ The Dynamic Video Quality Management System is a real-time video streaming appli
 
 ---
 
-# 🧑‍💼 Employee Management System – SITHM Department
+# 🧑‍💼 Employee Management System 
 
 An employee management system developed using Django that allows users to create, update, view, and delete records for departments, job positions, and employees. The application features a clean, responsive interface and uses Django’s ModelForm architecture for efficient data handling and form validation. Ideal for organizations needing a lightweight, web-based HR tool
 

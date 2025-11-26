@@ -28,7 +28,9 @@
 
 </div>
 
-<img align="right" alt="Coding" width="480" height="351.5" style="border-radius: 12px;" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ```python
 class Developer:
@@ -47,10 +49,20 @@ class Developer:
         
     def approach(self):
         return "Clean code. Practical solutions."
-
-
 ```
 
+</td>
+
+<td width="50%" valign="top" align="center">
+
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" 
+     alt="Coding" 
+     style="border-radius: 12px;" 
+     width="100%">
+
+</td>
+</tr>
+</table>
 
 <br clear="right"/>
 

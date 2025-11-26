@@ -145,17 +145,15 @@ const deployment = ["Railway", "Vercel"];
 ---
 
 <br>
-<div align="center">
+<div align="center"  style="padding-bottom: 25px;">
 
+## 🚀 <span style="color: #00D9FF">Featured Projects</span>
 
-## 🚀 <span style="color: #00D9FF">Featured projects</span>
-<table width="100%">
+<table>
 <tr>
 
 <!-- PROJECT 1 -->
 <td width="50%" valign="top" style="padding: 10px;">
-
-<div style="display: flex; flex-direction: column; height: 100%;">
 
 <div align="center">
 
@@ -164,8 +162,6 @@ const deployment = ["Railway", "Vercel"];
 <img src="https://img.shields.io/badge/Tech-Python%20%7C%20Tkinter%20%7C%20MySQL-blue?style=flat-square" />
 
 </div>
-
-<div style="flex-grow: 1;">
 
 A comprehensive desktop application for managing library operations with secure workflows.
 
@@ -176,22 +172,24 @@ A comprehensive desktop application for managing library operations with secure 
 - ⚡ Live Database Sync  
 - 📊 Analytics & Reports  
 
+<div align="center">
+
+<span>
+<a href="https://github.com/Logeshwaran-U/tkinter_library">
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/Logeshwaran-U/tkinter_library">
+<img src="https://img.shields.io/badge/Documentation-00D9FF?style=for-the-badge&logo=readthedocs&logoColor=white"/>
+</a>
+</span>
+
 </div>
 
-<div align="center" style="margin-top: 10px;">
-
-[![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Logeshwaran-U/tkinter_library)  
-[![Docs](https://img.shields.io/badge/Documentation-00D9FF?style=for-the-badge&logo=readthedocs&logoColor=white)](https://github.com/Logeshwaran-U/tkinter_library)
-
-</div>
-
-</div>
 </td>
 
 <!-- PROJECT 2 -->
 <td width="50%" valign="top" style="padding: 10px;">
-
-<div style="display: flex; flex-direction: column; height: 100%;">
 
 <div align="center">
 
@@ -200,8 +198,6 @@ A comprehensive desktop application for managing library operations with secure 
 <img src="https://img.shields.io/badge/Tech-Python%20%7C%20GStreamer%20%7C%20OpenCV-blue?style=flat-square" />
 
 </div>
-
-<div style="flex-grow: 1;">
 
 Real-time adaptive streaming with intelligent QoS management based on network metrics.
 
@@ -212,21 +208,25 @@ Real-time adaptive streaming with intelligent QoS management based on network me
 - 📈 Real-time Metrics Dashboard  
 - 🎯 Network-aware QoS Optimization  
 
+<div align="center">
+
+<span>
+<a href="https://github.com/Logeshwaran-U/adaptive-rtsp-streaming-qos">
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/Logeshwaran-U/adaptive-rtsp-streaming-qos">
+<img src="https://img.shields.io/badge/Documentation-00D9FF?style=for-the-badge&logo=readthedocs&logoColor=white"/>
+</a>
+</span>
+<br>
+
 </div>
 
-<div align="center" style="margin-top: 10px;">
-
-[![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Logeshwaran-U/adaptive-rtsp-streaming-qos)  
-[![Docs](https://img.shields.io/badge/Documentation-00D9FF?style=for-the-badge&logo=readthedocs&logoColor=white)](https://github.com/Logeshwaran-U/adaptive-rtsp-streaming-qos)
-
-</div>
-
-</div>
 </td>
 
 </tr>
 </table>
-
 <br>
 <br>
 

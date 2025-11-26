@@ -28,7 +28,7 @@
 
 </div>
 
-<img align="right" alt="Coding" width="480" height="345" style="border-radius: 12px;" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+<img align="right" alt="Coding" width="480" height="352" style="border-radius: 12px;" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
 ```python
 class Developer:

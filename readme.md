@@ -28,7 +28,7 @@
 
 </div>
 
-<img align="right" alt="Coding" width="480" height="350" style="border-radius: 12px;" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+<img align="right" alt="Coding" width="480" height="351.5" style="border-radius: 12px;" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
 ```python
 class Developer:
@@ -46,7 +46,9 @@ class Developer:
         ]
         
     def approach(self):
-        return "Clean code. Practical solutions. Smart results."
+        return "Clean code. Practical solutions."
+
+
 ```
 
 
@@ -111,7 +113,7 @@ const databases = ["MySQL", "MongoDB"];
 <span style="font-size: 1.17em; font-weight: bold; display: block; margin-top: 5px;">🛠️ Tools & Platforms</span>
 
 ```js
-const tools = ["Git", "VS Code", "Cloudinary", "reCAPTCHA"];
+const tools = ["Git", "Cloudinary", "reCAPTCHA"];
 ```
 
 <span style="font-size: 1.17em; font-weight: bold; display: block; margin-top: 5px;">☁️ Deployment & Hosting</span>

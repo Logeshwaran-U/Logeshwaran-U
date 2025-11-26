@@ -234,16 +234,8 @@ Real-time adaptive streaming with intelligent QoS management based on network me
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=logeshwaran-u&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&ring_color=00D9FF" alt=""/>
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=logeshwaran-u&theme=radical&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B00&currStreakLabel=00D9FF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF" alt=""/>
 
-<br><br>
 
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=logeshwaran-u&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8" alt=""/>
 
-<br><br>
-
-<!-- FIXED HEIGHT GRAPH WRAPPER -->
-<div align="center" style="height: 250px; overflow: hidden;">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=logeshwaran-u&theme=react-dark&hide_border=true&area=true" width="95%" alt=""/>
-</div>
 
 </div>
 
@@ -251,25 +243,12 @@ Real-time adaptive streaming with intelligent QoS management based on network me
 
 ---
 
-<br>
-
-<div align="center">
-
-## 🏆 <span style="color: #00D9FF">GitHub Trophies</span>
 
 </div>
 
 <br>
 
-<div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=logeshwaran-u&theme=radical&no-frame=true&no-bg=true&margin-w=15&column=7&title=MultiLanguage,Commits,Repositories,Stars,Followers,PullRequest,Issues)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
-<br>
-
-<br>
 
 <div align="center">
 

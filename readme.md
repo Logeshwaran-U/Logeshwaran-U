@@ -1,119 +1,342 @@
-<!-- Profile Header -->
-<h1 align="center">Hi 👋, I'm Logeshwaran-U</h1>
-<h3 align="center">🚀 Full-Stack Python Developer | 💡 AI/ML Enthusiast | 🧠 Passionate Problem Solver</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=500&lines=Code.+Build.+Repeat.;Lover+of+logic+%26+clean+designs.;Always+learning+something+new."/>
-</p>
-
----
-## 🧑‍💻 About Me
-
-- 🎓 Final year Computer Science student passionate about solving real-world problems through code  
-- 👨‍💻 Focused on **backend development**, **AI/ML fundamentals**, and building practical systems  
-- 🌐 Enjoy creating complete solutions — from database models to clean UIs  
-- 🔎 Continuously learning through hands-on projects, documentation, and self-study
-
----
-
-## 🔧 Tech Stack
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="140">
-  <b>Languages</b><br><br>
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,c" /><br>
-</td>
-<td align="center" width="140">
-  <b>Web Dev</b><br><br>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap" /><br>
-</td>
-<td align="center" width="140">
-  <b>Frameworks</b><br><br>
-  <img src="https://skillicons.dev/icons?i=django" /><br>
-</td>
-<td align="center" width="140">
-  <b>Databases</b><br><br>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb" /><br>
-</td>
-<td align="center" width="140">
-  <b>Tools</b><br><br>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" /><br>
-</td>
-</tr>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Logeshwaran%20U&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI/ML%20Enthusiast&descAlignY=60&descAlign=50" width="100%"/>
 
-<tr>
-<td align="center" colspan="5">
-  <b>Libraries</b><br><br>
-  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white" />
-</td>
-</tr>
+</div>
 
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=%F0%9F%9A%80+Code.+Build.+Innovate.;%F0%9F%92%A1+Passionate+About+Clean+Code;%F0%9F%8E%AF+Solving+Real+World+Problems;%E2%9A%A1+Always+Learning+%26+Growing)](https://git.io/typing-svg)
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://www.linkedin.com/in/logeshwaran-u/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=181717)](https://github.com/Logeshwaran-U)
+[![Profile Views](https://komarev.com/ghpvc/?username=logeshwaran-u&label=Profile%20Views&color=00D9FF&style=for-the-badge)](https://github.com/Logeshwaran-U)
+
+</div>
+
+<br>
+
+---
+
+<br>
+
+<div align="center">
+
+## 🎯 <span style="color: #00D9FF">About Me</span>
+
+</div>
+
+<img align="right" alt="Coding" width="480" height="345" style="border-radius: 12px;" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+
+```python
+class Developer:
+    def __init__(self):
+        self.name = "Logeshwaran U"
+        self.role = "Full-Stack Python Developer"
+        self.education = "Computer Science (Final Year)"
+
+    def current_focus(self):
+        return [
+            "🔥 Building scalable backend systems",
+            "🤖 Building AI/ML models and intelligent systems",
+            "💻 Creating full-stack solutions",
+            "📚 Continuous learning & improvement"
+        ]
+        
+    def approach(self):
+        return "Clean code. Practical solutions. Smart results."
+```
+
+
+<br clear="right"/>
+
+<br>
+
+---
+
+<br>
+
+
+<div align="center">
+
+# 🚀 Technical Arsenal
+
+<table width="100%">
+<tr>
+
+<td width="50%" valign="top" style="padding: 0 10px;">
+
+<span style="font-size: 1.17em; font-weight: bold; display: block; margin-top: 5px;">💻 Programming Languages</span>
+
+```js
+const prog_langs = ["C", "C++", "Python", "Java", "JavaScript"];
+```
+
+<span style="font-size: 1.17em; font-weight: bold; display: block; margin-top: 5px;">🎨 Frontend Development</span>
+
+```js
+const frontend = ["HTML", "CSS", "Bootstrap", "React.js"];
+```
+
+<span style="font-size: 1.17em; font-weight: bold; display: block; margin-top: 5px;">⚡ Backend Development</span>
+
+```js
+const backend = ["Django", "REST APIs"];
+```
+
+<span style="font-size: 1.17em; font-weight: bold; display: block; margin-top: 5px;">🖥️ Desktop Applications</span>
+
+```js
+const desktop_apps = ["Tkinter"];
+```
+
+</td>
+
+<td width="50%" valign="top" style="padding: 0 10px;">
+
+<span style="font-size: 1.17em; font-weight: bold; display: block; margin-top: 5px;">🤖 Data Science & ML</span>
+
+```js
+const data_ml = ["NumPy", "Pandas", "Matplotlib"];
+```
+
+<span style="font-size: 1.17em; font-weight: bold; display: block; margin-top: 5px;">🗄️ Database Systems</span>
+
+```js
+const databases = ["MySQL", "MongoDB"];
+```
+
+<span style="font-size: 1.17em; font-weight: bold; display: block; margin-top: 5px;">🛠️ Tools & Platforms</span>
+
+```js
+const tools = ["Git", "VS Code", "Cloudinary", "reCAPTCHA"];
+```
+
+<span style="font-size: 1.17em; font-weight: bold; display: block; margin-top: 5px;">☁️ Deployment & Hosting</span>
+
+```js
+const deployment = ["Railway", "Vercel"];
+```
+
+</td>
+
+</tr>
 </table>
+
+</div>
+<br>
+
+
+<br>
+
+## 🚀 <span style="color: #00D9FF">Featured Projects</span>
+
+<br>
+
+<table width="100%">
+<tr>
+
+<!-- PROJECT 1 -->
+<td width="50%" valign="top" style="padding: 10px;">
+
+<div style="display: flex; flex-direction: column; height: 100%;">
+
+<div align="center">
+
+### 📚 Library Management System  
+<img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square" />
+<img src="https://img.shields.io/badge/Tech-Python%20%7C%20Tkinter%20%7C%20MySQL-blue?style=flat-square" />
+
+</div>
+
+<div style="flex-grow: 1;">
+
+A comprehensive desktop application for managing library operations with secure workflows.
+
+**🎯 Core Features**
+- ✨ CRUD Operations – Books & members  
+- 💰 Auto Fines – Smart overdue calculation  
+- 🔐 Role-based Admin Security  
+- ⚡ Live Database Sync  
+- 📊 Analytics & Reports  
+
+</div>
+
+<div align="center" style="margin-top: 10px;">
+
+[![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Logeshwaran-U/tkinter_library)  
+[![Docs](https://img.shields.io/badge/Documentation-00D9FF?style=for-the-badge&logo=readthedocs&logoColor=white)](https://github.com/Logeshwaran-U/tkinter_library)
+
+</div>
+
+</div>
+</td>
+
+<!-- PROJECT 2 -->
+<td width="50%" valign="top" style="padding: 10px;">
+
+<div style="display: flex; flex-direction: column; height: 100%;">
+
+<div align="center">
+
+### 🎥 Video QoS Management System  
+<img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square" />
+<img src="https://img.shields.io/badge/Tech-Python%20%7C%20GStreamer%20%7C%20OpenCV-blue?style=flat-square" />
+
+</div>
+
+<div style="flex-grow: 1;">
+
+Real-time adaptive streaming with intelligent QoS management based on network metrics.
+
+**🎯 Core Features**
+- 📡 RTSP Multi-Format Streaming  
+- 🔄 Dynamic Bitrate Switching  
+- 📊 Latency & Jitter Analytics  
+- 📈 Real-time Metrics Dashboard  
+- 🎯 Network-aware QoS Optimization  
+
+</div>
+
+<div align="center" style="margin-top: 10px;">
+
+[![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Logeshwaran-U/adaptive-rtsp-streaming-qos)  
+[![Docs](https://img.shields.io/badge/Documentation-00D9FF?style=for-the-badge&logo=readthedocs&logoColor=white)](https://github.com/Logeshwaran-U/adaptive-rtsp-streaming-qos)
+
+</div>
+
+</div>
+</td>
+
+</tr>
+</table>
+---
+
+<br>
+
+<div align="center">
+
+## 📊 <span style="color: #00D9FF">GitHub Analytics</span>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=logeshwaran-u&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&ring_color=00D9FF" alt="GitHub Stats"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=logeshwaran-u&theme=radical&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B00&currStreakLabel=00D9FF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub Streak"/>
+
+<br><br>
+
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=logeshwaran-u&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8" alt="Top Languages"/>
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=logeshwaran-u&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" width="95%" alt="Contribution Graph"/>
+
+</div>
+
+<br>
+
+---
+
+<br>
+
+<div align="center">
+
+## 🏆 <span style="color: #00D9FF">GitHub Trophies</span>
+
+</div>
+
+<br>
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=logeshwaran-u&theme=radical&no-frame=true&no-bg=true&margin-w=15&column=7&title=MultiLanguage,Commits,Repositories,Stars,Followers,PullRequest,Issues)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+<br>
+
+---
+
+<br>
+
+<div align="center">
+
+## 💭 <span style="color: #00D9FF">Developer Philosophy</span>
+
+</div>
+
+<br>
+
+
+
+```typescript
+const philosophy = {
+  code: "Write code that speaks for itself",
+  design: "Simplicity is the ultimate sophistication",
+  growth: "Every bug is a lesson in disguise",
+  teamwork: "Great solutions come from collaboration",
+  impact: "Build products that solve real problems"
+};
+```
+
+
+<br>
+
+> ### "In coding, even bugs have a purpose — they teach you where not to trust yourself blindly."
+> 
+> — Logeshwaran U
+
+<br>
 
 </div>
 
 ---
 
-## 🌟 Featured Projects
+<br>
 
-# 📚 Library Management System
+<div align="center">
 
-The Library Management System is a desktop-based application developed using Python and Tkinter, with MySQL as the backend database. It allows users to perform full CRUD operations on books and member records, manage book issuance and returns, and automatically calculate fines for overdue returns. The system includes a secure admin login, a responsive interface for smooth navigation, and supports real-time database updates to ensure accurate record-keeping for small to medium-sized libraries.
+## 📫 <span style="color: #00D9FF">Let's Connect & Collaborate</span>
 
-🔗 [Explore the Code](https://github.com/Logeshwaran-U/tkinter_library)
+</div>
 
----
+<br>
 
-# 🎥 Dynamic Video Quality Management Ensuring QoS
+<div align="center">
 
-The Dynamic Video Quality Management System is a real-time video streaming application built using Python, GStreamer, and OpenCV, designed to maintain optimal Quality of Service (QoS). It streams multiple video files over RTSP, supports both static and dynamic bitrate modes, and dynamically adjusts video quality based on real-time latency and jitter analysis. The system also generates visual performance metrics such as latency graphs, jitter timelines, and bar charts to compare streaming behavior under different network conditions. 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://www.linkedin.com/in/logeshwaran-u/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717)](https://github.com/Logeshwaran-U)
+[![Email](https://img.shields.io/badge/Email-Reach%20Out-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836)](mailto:logeshwaran.u@example.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=00D9FF)](https://github.com/Logeshwaran-U)
 
-🔗 [Explore the Code](https://github.com/Logeshwaran-U/adaptive-rtsp-streaming-qos)
+<br>
 
----
+### 💬 Open for:
 
-# 🧑‍💼 Employee Management System 
+🤝 Collaborations • 💼 Opportunities • 🎓 Knowledge Sharing • 🚀 Open Source Projects
 
-An employee management system developed using Django that allows users to create, update, view, and delete records for departments, job positions, and employees. The application features a clean, responsive interface and uses Django’s ModelForm architecture for efficient data handling and form validation. Ideal for organizations needing a lightweight, web-based HR tool
+</div>
 
-🔗 [Explore the Code ](https://github.com/Logeshwaran-U/Employee_management_system)
-
----
-
-
-## 📈 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=logeshwaran-u&theme=dark&hide_border=true" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=logeshwaran-u&show_icons=true&theme=dark&hide_border=true" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=logeshwaran-u&layout=compact&theme=dark&hide_border=true" />
-</p>
+<br>
 
 ---
 
-## 🔗 Connect With Me
+<br>
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/logeshwaran-u/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
+<div align="center">
 
----
+### ⭐ From [Logeshwaran-U](https://github.com/Logeshwaran-U)
 
-## 💬 Fun Fact
+Made with 💙 Python • Powered by ☕ Coffee • Driven by 🚀 Passion
 
-> 🧠 **"In coding, even bugs have a purpose — they teach you where not to trust yourself blindly."**  
-> — Logeshwaran-U
+<br>
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
-</p>
+</div>

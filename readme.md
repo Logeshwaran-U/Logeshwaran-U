@@ -297,7 +297,7 @@ const philosophy = {
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://www.linkedin.com/in/logeshwaran-u/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717)](https://github.com/Logeshwaran-U)
-[![Email](https://img.shields.io/badge/Email-Reach%20Out-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836)](mailto:logeshwaran.u@example.com)
+[![Email](https://img.shields.io/badge/Email-Reach%20Out-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836)](mailto:logeshwaranuk@example.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=00D9FF)](https://github.com/Logeshwaran-U)
 
 <br>

@@ -63,7 +63,7 @@ class Developer:
 
 <div align="center">
 
-# 🚀 Technical Arsenal
+## 🚀 Technical Arsenal
 
 <table width="100%">
 <tr>
@@ -129,14 +129,15 @@ const deployment = ["Railway", "Vercel"];
 
 </div>
 <br>
-
-
 <br>
 
-## 🚀 <span style="color: #00D9FF">Featured Projects</span>
+---
 
 <br>
+<div align="center">
 
+
+## 🚀 <span style="color: #00D9FF">Featured projects</span>
 <table width="100%">
 <tr>
 
@@ -214,11 +215,13 @@ Real-time adaptive streaming with intelligent QoS management based on network me
 
 </tr>
 </table>
+
+<br>
+<br>
+
 ---
 
 <br>
-
-<div align="center">
 
 ## 📊 <span style="color: #00D9FF">GitHub Analytics</span>
 
@@ -228,16 +231,19 @@ Real-time adaptive streaming with intelligent QoS management based on network me
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=logeshwaran-u&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&ring_color=00D9FF" alt="GitHub Stats"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=logeshwaran-u&theme=radical&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B00&currStreakLabel=00D9FF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub Streak"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=logeshwaran-u&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&ring_color=00D9FF" alt=""/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=logeshwaran-u&theme=radical&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B00&currStreakLabel=00D9FF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF" alt=""/>
 
 <br><br>
 
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=logeshwaran-u&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8" alt="Top Languages"/>
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=logeshwaran-u&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8" alt=""/>
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=logeshwaran-u&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" width="95%" alt="Contribution Graph"/>
+<!-- FIXED HEIGHT GRAPH WRAPPER -->
+<div align="center" style="height: 250px; overflow: hidden;">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=logeshwaran-u&theme=react-dark&hide_border=true&area=true" width="95%" alt=""/>
+</div>
 
 </div>
 
@@ -262,8 +268,6 @@ Real-time adaptive streaming with intelligent QoS management based on network me
 </div>
 
 <br>
-
----
 
 <br>
 

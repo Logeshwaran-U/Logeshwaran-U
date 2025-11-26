@@ -53,13 +53,12 @@ class Developer:
 
 </td>
 
-<td width="50%" valign="top" align="center">
+<td width="45%" valign="top" align="center">
 
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" 
-     alt="Coding" 
-     style="border-radius: 12px;" 
-     width="100%">
-
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"
+     alt="Coding"
+     width="380px"
+     style="max-width: 100%; border-radius: 12px;" />
 </td>
 </tr>
 </table>

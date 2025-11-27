@@ -298,27 +298,19 @@ const philosophy = {
 
 <div align="center">
 
-## 📫 <span style="color: #00D9FF">Let's Connect & Collaborate</span>
-
-</div>
+<img src="https://media.tenor.com/XI3vQk2wECMAAAAj/duck-pointing.gif" width="90" alt="duck pointing">
 
 <br>
 
-<div align="center">
+## 📄 <span style="color:#00D9FF;">Resume</span>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://www.linkedin.com/in/logeshwaran-u/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717)](https://github.com/Logeshwaran-U)
-[![Email](https://img.shields.io/badge/Email-Reach%20Out-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836)](mailto:logeshwaranuk@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=00D9FF)](https://github.com/Logeshwaran-U)
+### <span style="color:#9BE8FF;">Download my complete professional profile below</span>
 
 <br>
 
-### 💬 Open for:
-
-🤝 Collaborations • 💼 Opportunities • 🎓 Knowledge Sharing • 🚀 Open Source Projects
+[![Resume](https://img.shields.io/badge/Download_Resume-00D9FF?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&labelColor=001F2E)](https://raw.githubusercontent.com/Logeshwaran-U/Logeshwaran-U/main/resume.pdf)
 
 </div>
-
 <br>
 
 ---

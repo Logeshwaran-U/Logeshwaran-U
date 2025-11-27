@@ -259,6 +259,38 @@ Real-time adaptive streaming with intelligent QoS management based on network me
 
 <br>
 
+<div align="center">
+
+## 🗄️ <span style="color: #00D9FF">Developer Record Lookup</span>
+</div>
+
+```sql
+SELECT name, email, resume FROM developer WHERE name = "Logeshwaran-U";
+```
+
+<table>
+  <tr>
+    <th>Name</th>
+    <th>Email</th>
+    <th>Resume</th>
+  </tr>
+  <tr>
+    <td><strong>Logeshwaran U</strong></td>
+    <td><strong>logeshwaranuk@gmail.com</strong></td>
+    <td>
+      <a href="https://raw.githubusercontent.com/Logeshwaran-U/Logeshwaran-U/main/resume.pdf">
+        <img src="https://img.shields.io/badge/Download_Resume-00F6FF?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&labelColor=001F2E">
+      </a>
+    </td>
+  </tr>
+</table>
+
+
+<br>
+
+---
+
+<br>
 
 
 <div align="center">
@@ -267,7 +299,7 @@ Real-time adaptive streaming with intelligent QoS management based on network me
 
 </div>
 
-<br>
+
 
 
 
@@ -292,25 +324,7 @@ const philosophy = {
 
 </div>
 
----
 
-<br>
-
-<div align="center">
-
-<img src="https://media.tenor.com/XI3vQk2wECMAAAAj/duck-pointing.gif" width="90" alt="duck pointing">
-
-<br>
-
-## 📄 <span style="color:#00D9FF;">Resume</span>
-
-### <span style="color:#9BE8FF;">Download my complete professional profile below</span>
-
-<br>
-
-[![Resume](https://img.shields.io/badge/Download_Resume-00D9FF?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&labelColor=001F2E)](https://raw.githubusercontent.com/Logeshwaran-U/Logeshwaran-U/main/resume.pdf)
-
-</div>
 <br>
 
 ---

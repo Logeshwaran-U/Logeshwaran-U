@@ -278,7 +278,7 @@ SELECT name, email, resume FROM developer WHERE name = "Logeshwaran-U";
     <td><strong>Logeshwaran U</strong></td>
     <td><strong>logeshwaranuk@gmail.com</strong></td>
     <td>
-     🟢 <a href="https://raw.githubusercontent.com/Logeshwaran-U/Logeshwaran-U/main/resume.pdf"><strong>Download Resume (PDF)</strong></a>
+        🟢 <a href="https://github.com/Logeshwaran-U/resume/blob/main/Logeshwaran_resume.pdf"><strong>Download Resume (PDF)</strong></a>
     </td>
   </tr>
 </table>
